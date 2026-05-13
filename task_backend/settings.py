@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-j!=+%qg1xr46uz0zvdt-ekl4#+f&4i9to&8@613ih$#v2t+)!6
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['yongieee.pythonanywhere.com']
+ALLOWED_HOSTS = ['yongieee2.pythonanywhere.com']
 CORS_ALLOWED_ORIGINS = ["https://yongieee2.pythonanywhere.com"]
 
 
